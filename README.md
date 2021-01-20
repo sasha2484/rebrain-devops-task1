@@ -1,49 +1,31 @@
-# rebrain-devops-task1
+
+![Alt Text](https://media.giphy.com/media/119HtgTy0cDjK8/giphy.gif)
+
+
+# Проект rebrain-devops-task1
 
 > Проект Александра Бараусова
 
-background details relevant to understanding what this module does
+Проект для обучения азам Devops. 
 
-## Usage
-
-```js
-var rebrainDevopsTask1 = require('rebrain-devops-task1')
-
-console.log('hello warld')
-```
-
-outputs
-
-```
-hello warld
-```
-
-## API
+## Клонирование
 
 ```js
-var rebrainDevopsTask1 = require('rebrain-devops-task1')
-```
-
-See [api_formatting.md](api_formatting.md) for tips.
-
-## Install
-
-With [npm](https://npmjs.org/) installed, run
+С помощью ssh:
+git@gitlab.rebrainme.com:devops_users_repos/1812/sasha2484_at_gmail_com.git
+С помощью http:
+https://gitlab.rebrainme.com/devops_users_repos/1812/sasha2484_at_gmail_com.git
 
 ```
-$ npm install rebrain-devops-task1
-```
 
-## Acknowledgments
 
-rebrain-devops-task1 was inspired by..
+## Благодарности
 
-## See Also
+Благодарности мне и моим наставникам на этом сложном пути познания дзена.
 
-- [`noffle/common-readme`](https://github.com/noffle/common-readme)
-- ...
+
 
 ## License
 
-ISC
+GNU
 
