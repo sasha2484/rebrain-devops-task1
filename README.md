@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/119HtgTy0cDjK8/giphy.gif" width="80%"></p>
+<img src="https://media.giphy.com/media/119HtgTy0cDjK8/giphy.gif"></p>
 
 # Проект rebrain-devops-task1
 
