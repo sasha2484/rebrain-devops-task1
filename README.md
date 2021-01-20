@@ -1,5 +1,4 @@
-<p align="center">
-<img src="https://media.giphy.com/media/119HtgTy0cDjK8/giphy.gif"></p>
+<p align="center"><img src="https://media.giphy.com/media/119HtgTy0cDjK8/giphy.gif"></p>
 
 # Проект rebrain-devops-task1
 
