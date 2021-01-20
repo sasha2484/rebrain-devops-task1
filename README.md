@@ -1,6 +1,5 @@
-
-![Alt Text](https://media.giphy.com/media/119HtgTy0cDjK8/giphy.gif)
-
+<p align="center">
+<img src="https://media.giphy.com/media/119HtgTy0cDjK8/giphy.gif" width="80%"></p>
 
 # Проект rebrain-devops-task1
 
@@ -10,7 +9,7 @@
 
 ## Клонирование
 
-```js
+```
 С помощью ssh:
 git@gitlab.rebrainme.com:devops_users_repos/1812/sasha2484_at_gmail_com.git
 С помощью http:
