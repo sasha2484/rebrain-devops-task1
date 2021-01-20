@@ -1,1 +1,1 @@
-В данном репозитории находится дефолтный конфигурационный файл nginx
+USAGE: common-readme [-r|--repo REPO-NAME] [-l|--license LICENSE]
